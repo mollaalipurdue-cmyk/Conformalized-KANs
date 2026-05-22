@@ -14,9 +14,7 @@ This repository includes a Jupyter notebook for each experiment in the paper.
 - **Experiment 2:** `Experiment_2.ipynb`
 - **Experiment 3:** `Experiment_3.ipynb`
 - **Experiment 4:** `Experiment_4.ipynb`
-- **Noisy-data ablation studies:** `Noisy_Data_Ablation.ipynb`
 
-Please update the notebook names above if your files have different names.
 
 ## Citation
 
