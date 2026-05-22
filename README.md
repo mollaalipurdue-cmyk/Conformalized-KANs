@@ -2,57 +2,32 @@
 
 Code for the paper:
 
-**Conformalized-KANs: Uncertainty Quantification with Coverage Guarantees for Kolmogorov-Arnold Networks in Scientific Machine Learning**
+**Conformalized-KANs: Uncertainty Quantification with Coverage Guarantees for Kolmogorov-Arnold Networks (KANs) in Scientific Machine Learning**
 
-Paper link: **[Add paper link here]**
+Paper link: [https://arxiv.org/abs/2504.15240](https://arxiv.org/abs/2504.15240)
 
 ## Experiments
 
-This repository includes the code for each experiment in the paper.
+This repository includes a Jupyter notebook for each experiment in the paper.
 
-### Experiment 1: 1D function approximation
+- **Experiment 1:** `Experiment_1.ipynb`
+- **Experiment 2:** `Experiment_2.ipynb`
+- **Experiment 3:** `Experiment_3.ipynb`
+- **Experiment 4:** `Experiment_4.ipynb`
+- **Noisy-data ablation studies:** `Noisy_Data_Ablation.ipynb`
 
-```bash
-python experiments/exp1_1d/run_experiment.py
-```
-
-### Experiment 2: 2D function approximation
-
-```bash
-python experiments/exp2_2d/run_experiment.py
-```
-
-### Experiment 3: Multi-fidelity learning
-
-```bash
-python experiments/exp3_multifidelity/run_experiment.py
-```
-
-### Experiment 4: PDE benchmark problem
-
-```bash
-python experiments/exp4_pde/run_experiment.py
-```
-
-### Noisy-data ablation studies
-
-```bash
-python experiments/noisy_data/run_experiment.py
-```
-
-Please update the script names above if your local folder or file names are different.
+Please update the notebook names above if your files have different names.
 
 ## Citation
 
 If you use this code, please cite:
 
 ```bibtex
-@article{mollaali2026conformalizedkans,
-  title   = {Conformalized-KANs: Uncertainty Quantification with Coverage Guarantees for Kolmogorov-Arnold Networks in Scientific Machine Learning},
-  author  = {Mollaali, Amir Hossein and others},
-  journal = {Machine Learning: Science and Technology},
-  year    = {2026},
-  note    = {To appear}
+@article{mollaali2025conformalized,
+  title={Conformalized-KANs: Uncertainty Quantification with Coverage Guarantees for Kolmogorov-Arnold Networks (KANs) in Scientific Machine Learning},
+  author={Mollaali, Amirhossein and Moya, Christian Bolivar and Howard, Amanda A. and Heinlein, Alexander and Stinis, Panos and Lin, Guang},
+  journal={arXiv preprint arXiv:2504.15240},
+  year={2025}
 }
 ```
 
