@@ -10,11 +10,17 @@ Paper link: [https://arxiv.org/abs/2504.15240](https://arxiv.org/abs/2504.15240)
 
 This repository includes a Jupyter notebook for each experiment in the paper.
 
-- **Experiment 1:** `Experiment_1.ipynb`
-- **Experiment 2:** `Experiment_2.ipynb`
-- **Experiment 3:** `Experiment_3.ipynb`
-- **Experiment 4:** `Experiment_4.ipynb`
+- **Experiment 1: 1D function approximation**  
+  `experiment_1_1d_function_approximation.ipynb`
 
+- **Experiment 2: 2D function approximation**  
+  `experiment_2_2d_function_approximation.ipynb`
+
+- **Experiment 3: Multi-fidelity learning**  
+  `experiment_3_multi_fidelity_learning.ipynb`
+
+- **Experiment 4: PDE benchmark problem**  
+  `experiment_4_pde_benchmark_problem.ipynb`
 
 ## Citation
 
